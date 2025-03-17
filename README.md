@@ -1,4 +1,5 @@
 **Project Title:Digital Collectibles**
+
 **Project Description**
 The Digital Collectibles project is a decentralized marketplace for digital trading cards or collectible items in the form of NFTs (Non-Fungible Tokens). These collectibles can include digital trading cards, art, or any other form of digital assets. The platform allows creators to mint their items as NFTs and sell them on the marketplace while providing transparency and security through the Ethereum blockchain.
 The smart contract ensures the creation and management of these collectibles, offering a system where each item is assigned a unique ID, is tracked, and has verifiable ownership. The goal is to provide a secure and transparent marketplace where collectors and creators can exchange digital goods.
