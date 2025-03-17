@@ -41,6 +41,7 @@ While the current smart contract offers basic functionality for minting and trac
 
 6. Public Access:
    - The smart contract functions are public, allowing anyone to create collectibles and query information about them.
+     
     **Contract Address**
      0x24da9d104ec32991096acec4f0d5e750e82b690e
      ![image](https://github.com/user-attachments/assets/e747b55a-4c78-44e0-86d7-49d28aa4d3d3)
